@@ -5,3 +5,4 @@
 Язык/Launguage: C# .NET 4.8  
 Связь со мной - t.me/traurstudio
 
+![Uploading image.png…]()
