@@ -1,4 +1,4 @@
-<img width="1056" height="603" alt="image" src="https://github.com/user-attachments/assets/3ddaecf3-f6c9-4986-af0e-e005dcae524b" /># SPOOF-CPU .NET 4.8
+
 [RU] Программа изменяющая информацию о твоем процессора в диспетчере задач.  
 [EN] A program that changes information about your processor in the Task Manager.    
 
