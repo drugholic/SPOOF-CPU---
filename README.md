@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="bvY34aEgRw75MaGz6yRt7vfgOzxlC3SOIxOsKBzdxaI" />
 
 [RU] Программа изменяющая информацию о твоем процессора в диспетчере задач.  
 [EN] A program that changes information about your processor in the Task Manager.    
